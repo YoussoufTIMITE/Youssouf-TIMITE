@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Youssouf TIMITE !
 
-<!--
-**YoussoufTIMITE/YoussoufTIMITE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant passionné par le développement Python, j’explore l’univers de la programmation à travers plusieurs projets originaux.
 
-Here are some ideas to get you started:
+## 🚀 Mes projets Python préférés
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je développe et partage mes projets sur GitHub :
+- [04-primes](https://github.com/YoussoufTIMITE/04-primes) : Découverte et manipulation des nombres premiers
+- [05-palindromes](https://github.com/YoussoufTIMITE/05-palindromes) : Tout sur les palindromes en Python
+- [06-syracuse](https://github.com/YoussoufTIMITE/06-syracuse) : Exploration de la suite de Syracuse
+- [algo](https://github.com/YoussoufTIMITE/algo) : Algorithmes variés et défis
+- [algorithme](https://github.com/YoussoufTIMITE/algorithme) : Expérimentations autour des algos
+
+## 🐍 Compétence principale
+
+- **Data scientist** (et toujours prêt à apprendre plus !)
+
+## 💡 À propos de moi
+
+J’aime relever des défis, apprendre de nouvelles choses et partager mes découvertes avec la communauté.  
+N’hésite pas à explorer mes dépôts ou à me contacter pour échanger sur Python ou l’informatique !
+
+---
+
+*Ce profil est en constante évolution, tout comme ma passion pour la programmation.*
