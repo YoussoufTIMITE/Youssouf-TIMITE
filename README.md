@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Youssouf TIMITE !
+# Salut, moi c'est Youssouf TIMITE !
 
 🎓 Étudiant passionné par le développement Python, j’explore l’univers de la programmation à travers plusieurs projets originaux.
 
