@@ -8,8 +8,6 @@ Je développe et partage mes projets sur GitHub :
 - [04-primes](https://github.com/YoussoufTIMITE/04-primes) : Découverte et manipulation des nombres premiers
 - [05-palindromes](https://github.com/YoussoufTIMITE/05-palindromes) : Tout sur les palindromes en Python
 - [06-syracuse](https://github.com/YoussoufTIMITE/06-syracuse) : Exploration de la suite de Syracuse
-- [algo](https://github.com/YoussoufTIMITE/algo) : Algorithmes variés et défis
-- [algorithme](https://github.com/YoussoufTIMITE/algorithme) : Expérimentations autour des algos
 - [07-asciiart](https://github.com/YoussoufTIMITE/07-asciiart) :
 - [08-lecture-donnees](https://github.com/YoussoufTIMITE/08-lecture-donnees) :
 
